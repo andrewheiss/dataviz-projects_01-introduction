@@ -1,6 +1,6 @@
 ---
 title: "Introduction to R and the tidyverse"
-subtitle: "Exercise 1 --- PMAP 8551, SEMESTER YEAR"
+subtitle: "Exercise 1 --- PMAP 8551/4551, SEMESTER YEAR"
 author: "YOUR NAME HERE"
 date: "DATE GOES HERE"
 date-format: "long"
